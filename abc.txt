@@ -1,3 +1,7 @@
 my name is shagun garg
 i am student
+<<<<<<< HEAD
 i love india
+=======
+no i dont love india
+>>>>>>> 776d00415beaf816492b32710da1e9371c9ee151
